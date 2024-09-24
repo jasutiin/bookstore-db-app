@@ -3,11 +3,12 @@
   <p>A simple app where you can manage your collection of books.</p>
 </div>
 
-<!---
 <p align="center">
-  <img src="https://github.com/jasutiin/guess-the-number-app/blob/main/assets/images/app_preview.gif" alt="screenshot" width="200">
+  <img src="https://github.com/jasutiin/bookstore-db-app/blob/main/imgs/bookstore_main_page.png" alt="screenshot" width="200">
 </p>
---->
+<p align="center">
+  <img src="https://github.com/jasutiin/bookstore-db-app/blob/main/imgs/bookstore_update_page.png" alt="screenshot" width="200">
+</p>
 
 <div align="center">
 <h3>Languages and Tools Used</h3>
