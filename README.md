@@ -4,10 +4,10 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/jasutiin/bookstore-db-app/blob/main/imgs/bookstore_main_page.png" alt="screenshot" width="200">
+  <img src="https://github.com/jasutiin/bookstore-db-app/blob/main/imgs/bookshop_main_page.png" alt="screenshot" width="500">
 </p>
 <p align="center">
-  <img src="https://github.com/jasutiin/bookstore-db-app/blob/main/imgs/bookstore_update_page.png" alt="screenshot" width="200">
+  <img src="https://github.com/jasutiin/bookstore-db-app/blob/main/imgs/bookshop_update_page.png" alt="screenshot" width="500">
 </p>
 
 <div align="center">
