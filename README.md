@@ -15,9 +15,16 @@
 <a href="https://react.dev/" target="blank"><img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="blank"><img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
 <a href="https://github.com/jasutiin"><img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
+<a href="https://nodejs.org/en" target="blank"><img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></a>
 <a href="https://www.mysql.com/" target="blank"><img alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
+<a href="https://expressjs.com/" target="blank"><img alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /></a>
 </div>
 <br>
+<div align="center">
+<p>
+I already have experience with front-end and some experience with making a database using MySQL, but I wasn't sure how we would pair the two together. With this project, I was able to utilize Node.js and Express to connect the two together. This is a tutorial project which gave me an introduction to how these things work. I will take a look into how it actually works and use this knowledge to make my own full-stack websites and apps :)
+</p> 
+</div>
 
 
 ## How To Use
